@@ -1,10 +1,10 @@
+import ReviewBadges from "./components/ReviewBadges";
 import "./App.css";
-import { SellAnywhere } from "./components/SellAnywhere";
 
 function App() {
   return (
     <div className="App">
-      <SellAnywhere />
+      <ReviewBadges />
     </div>
   );
 }
