@@ -7,13 +7,6 @@ export const SellAnywhere = () => {
       <div>SellAnywhere</div>
       <div>SellAnywhere</div>
       <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
-      <div>SellAnywhere</div>
     </>
   );
 };
